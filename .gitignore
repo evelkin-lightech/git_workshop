@@ -1,0 +1,16 @@
+.env
+*/venv
+.venv
+*.pyc
+.idea
+.vscode
+.DS_Store
+.mypy_cache/
+.devcontainer/
+*config.toml
+celerybeat-schedule
+/media/
+/collected_static/
+
+# Translations
+*.mo
